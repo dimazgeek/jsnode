@@ -2,6 +2,7 @@
 
 // assignment week 1 fizzbuzz
 // dimaz ardhi
+// javascript function iterate number 
 
 window.onload = function(){ 
     
