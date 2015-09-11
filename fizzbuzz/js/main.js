@@ -1,6 +1,7 @@
 
 
-// fizzbuzz
+// assignment week 1 fizzbuzz
+// dimaz ardhi
 
 window.onload = function(){ 
     
